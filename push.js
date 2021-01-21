@@ -7,7 +7,7 @@ let vapidKeys = {
 };
 // console.log(vapidKeys);
 push.setVapidDetails(
-  "manh842k@gmail.com",
+  "mailto:test@code.co.uk",
   vapidKeys.publicKey,
   vapidKeys.privateKey
 );
